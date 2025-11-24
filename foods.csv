@@ -1,78 +1,78 @@
-Id,ItemName,Description,Image,Vegan,Vegetarian,Halal,NutFree,GlutenFree,LactoseFree,LastUpdated,Brand
-100000,Cadbury Dairy Milk 45g,Classic creamy milk chocolate bar,chocolates/cadbury/cadbury1.jpg,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury
-100001,Cadbury Fudge 22g,Soft caramel fudge covered in Cadbury milk chocolate,chocolates/cadbury/fudge.png,FALSE,TRUE,TRUE,TRUE,TRUE, FALSE,22nd September 2025,Cadbury
-100002,Cadbury Crunchie 40g,Honeycomb toffee coated in milk chocolate,other/honeycomb.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Cadbury
-100003,Cadbury Wispa 36g,Light bubbly chocolate bar,chocolates/cadbury/image1.png,FALSE, TRUE, TRUE, FALSE, TRUE, FALSE,22nd September 2025,Cadbury
-100004,Cadbury Double Decker 54g,Layer of nougatine and crispy cereal covered in milk chocolate,chocolates/cadbury/image2.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Cadbury
-100005,Cadbury Boost 48g,Chewy caramel and biscuit energy bar covered in chocolate,chocolates/cadbury/image3.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Cadbury
-100006,Cadbury Twirl 43g,Two fingers of flaky chocolate covered in milk chocolate,chocolates/cadbury/image1.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Cadbury
-100007,Cadbury Picnic 48g,Chocolate bar with peanuts caramel wafer and raisins,chocolates/cadbury/image2.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Cadbury
-100008,Cadbury Caramel 45g,Milk chocolate bar filled with caramel,chocolates/cadbury/image3.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,FALSE,22nd September 2025,Cadbury
-100009,Cadbury Flake 32g,Delicate and crumbly milk chocolate bar,chocolates/cadbury/image1.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Cadbury
-100010,Cadbury Dairy Milk Buttons 95g,Sharing bag of milk chocolate buttons,chocolates/buttons.jpg,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury
-100011,Cadbury Wispa Gold 48g,Chocolate bar with caramel layer,chocolates/cadbury/image3.png,FALSE, TRUE, TRUE, FALSE, TRUE, FALSE,22nd September 2025,Cadbury
-100012,Cadbury Twirl Bites 109g,Sharing bag of mini Twirl pieces,chocolates/cadbury/image1.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALS,22nd September 2025,Cadbury
-100013,Cadbury Fudge Minis 120g,Sharing bag of mini Fudge bars,chocolates/cadbury/fudge1.png,FALSE,TRUE,TRUE,TRUE,TRUE, FALSE,22nd September 2025,Cadbury
-100014,Cadbury Crunchie Rocks 110g,Clusters of honeycomb pieces in chocolate,other/honeycomb.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Cadbury
-100015,Cadbury Dairy Milk 110g,Tablet bar of classic milk chocolate,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury
-100016,Cadbury Dairy Milk 200g,Large tablet bar of milk chocolate,chocolates/cadbury/cadbury1.jpg,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury
-100017,Cadbury Dairy Milk Orange 95g,Chocolate bar infused with orange flavour,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury
-100018,Cadbury Dairy Milk Whole Nut 120g,Chocolate with whole hazelnuts,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury
-100019,Cadbury Dairy Milk Fruit & Nut 110g,Chocolate with raisins and nuts,chocolates/cadbury/cadbury1.jpg,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury
-100020,Cadbury Dairy Milk Caramel Nibbles 95g,Chocolate with caramel filling,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury
-100021,Cadbury Heroes 185g,Assorted mini chocolate bars,chocolates/cadbury/image1.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Cadbury
-100022,Cadbury Roses 290g,Assorted selection of chocolates,chocolates/cadbury/image2.png,FALSE, TRUE, TRUE, FALSE, TRUE, FALSE,22nd September 2025,Cadbury
-100023,Nestlé KitKat 4 Finger 41.5g,Wafer fingers covered in milk chocolate,/chocolates/generalchocolate/image1.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Nestlé
-100024,Nestlé KitKat Chunky 40g,Thick wafer finger covered in chocolate,/chocolates/generalchocolate/image2.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Nestlé
-100025,Nestlé KitKat Chunky Peanut Butter 42g,Chunky KitKat with peanut butter filling,/chocolates/generalchocolate/image3.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Nestlé
-100026,Nestlé KitKat White 41.5g,Classic 4 Finger KitKat in white chocolate,/chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé
-100027,Nestlé Aero Milk 36g,Bubbly milk chocolate bar,/chocolates/generalchocolate/image5.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé
-100028,Nestlé Aero Mint 36g,Bubbly milk chocolate bar with mint flavour,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé
-100029,Nestlé Aero Bubbles Mint 92g,Sharing bag of mint Aero bubble pieces,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé
-100030,Nestlé Smarties 38g,Colourful sugar-coated chocolate sweets,/chocolates/generalchocolate/image2.png,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,22nd September 2025,Nestlé
-100031,Nestlé Smarties 152g,Sharing tube of colourful sugar-coated sweets,/chocolates/generalchocolate/image3.png,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,FALSE,22nd September 2025,Nestlé
-100032,Nestlé Milkybar 25g,White chocolate bar,/chocolates/generalchocolate/image4.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Nestlé
-100033,Nestlé Milkybar Buttons 85g,Sharing bag of white chocolate, chocolates/buttons.jpg,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Nestlé
-100034,Nestlé Lion 42g,Wafer caramel and cereal bar covered in chocolate,/chocolates/generalchocolate/image6.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Nestlé
-100035,Nestlé Toffee Crisp 38g,Bar with crispy cereal and toffee covered in chocolate,/chocolates/generalchocolate/image1.png,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,22nd September 2025,Nestlé
-100036,Nestlé Yorkie 46g,Chunky milk chocolate bar,/chocolates/generalchocolate/image2.png,FALSE, TRUE, TRUE, FASTLE, FALSE, FALSE,22nd September 2025,Nestlé
-100037,Nestlé Rolo 41g,Milk chocolate cups filled with soft toffee,/chocolates/generalchocolate/image3.png,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,22nd September 2025,Nestlé
-100038,Mars Bar 51g,Milk chocolate bar with nougat and caramel,chocolates/mars/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars
-100039,Snickers 48g,Chocolate bar with peanuts nougat and caramel,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars
-100040,Galaxy Smooth Milk 42g,Smooth and creamy milk chocolate bar,chocolates/galaxy/image1.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Galaxy
-100041,Galaxy Caramel 48g,Milk chocolate with smooth caramel centre,chocolates/galaxy/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Galaxy
-100042,Maltesers 37g,Light honeycomb malt spheres covered in chocolate,mars.png,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,22nd September 2025,Mars
-100043,Maltesers 175g,Sharing pouch of malt chocolate spheres,mars.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars
-100044,Mars Duo 78g,Two full-size Mars bars in one pack,chocolates/mars/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars
-100045,Snickers Duo 83g,Two full-size Snickers bars in one pack,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars
-100046,Galaxy Minstrels 118g,Sharing bag of milk chocolate buttons with crisp shells,chocolates/buttons.jpg,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Galaxy
-100047,Galaxy Ripple 33g,Flaky milk chocolate fingers covered in chocolate,chocolates/galaxy/image1.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Galaxy
-100048,Mars Bounty 57g,Coconut filled bar covered in milk chocolate,mars.png,FALSE, TRUE, TRUE, FALSE, TRUE, FALSE,22nd September 2025,Mars
-100049,Mars Celebrations 240g,Assorted mini chocolates,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars
-100050,Galaxy Counters 112g,Sharing bag of button-shaped chocolates,chocolates/galaxy/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Galaxy
-100051,Maltesers Teasers Bar 35g,Bar form of Maltesers with honeycomb pieces,other/honeycomb.png,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,22nd September 2025,Mars
-100052,Milky Way 21.5g,Light whipped nougat covered in milk chocolate,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars
-100053,KitKat Chunky Duo 74g,Two KitKat Chunky bars in one pack,kitkatchunky.jpg,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,FALSE,22nd September 2025,Nestlé
-100054,KitKat 4 Finger 9 Pack 374g,Multipack of KitKat 4 Finger bars,kitkat.jpg,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,22nd September 2025,Nestlé
-100055,Snickers 4 Pack 192g,Multipack of Snickers bars,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars
-100056,Mars 4 Pack 200g,Multipack of Mars bars,chocolates/mars/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars
-100057,Bounty 3 Pack 171g,Multipack of coconut chocolate bars,mars.png,FALSE, TRUE, TRUE, FALSE, TRUE, FALSE,22nd September 2025,Mars
-100058,Galaxy Smooth Milk 110g,Tablet bar of smooth milk chocolate,chocolates/galaxy/image3.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Galaxy
-100059,Galaxy Smooth Milk 200g,Large tablet bar of smooth milk chocolate,chocolates/galaxy/image1.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Galaxy
-100060,Galaxy Caramel 135g,Tablet bar with caramel filling,chocolates/galaxy/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Galaxy
-100061,Mars Revels 101g,Sharing bag with assorted chocolate centres,chocolates/mars/image1.png,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,22nd September 2025,Mars
-100062,Mars Milky Way Magic Stars 33g,Mini star-shaped chocolates,chocolates/mars/image2.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars
-100063,Nestlé Aero Bubbles 102g,Sharing bag of milk chocolate bubble pieces,/chocolates/generalchocolate/image1.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,FALSE,22nd September 2025,Nestlé
-100064,Nestlé KitKat Dark 41.5g,KitKat covered in dark chocolate,chocolates/generalchocolate/image2.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Nestlé
-100065,Nestlé Yorkie Raisin & Biscuit 46g,Chunky Yorkie bar with raisins and biscuit pieces,chocolates/generalchocolate/image3.png,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,22nd September 2025,Nestlé
-100066,Nestlé Aero Orange 36g,Bubbly milk chocolate bar with orange flavour,chocolates/generalchocolate/image4.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Nestlé
-100067,Cadbury Starbar 49g,Peanut and caramel bar covered in chocolate,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury
-100068,Nestlé Breakaway 32g,Chocolate covered biscuit bar,/chocolates/generalchocolate/image5.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé
-100069,Nestlé Blue Riband 36g,Chocolate wafer biscuit bar,/chocolates/generalchocolate/image6.png,FALSE, TRUE, TRUE, FALSE, FALSE, FALSE,22nd September 2025,Nestlé
-100070,Nestlé Aero Peppermint Bubbles 92g,Sharing bag of peppermint Aero bubble pieces,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé
-100071,Mars Topic 47g,Chocolate bar with hazelnuts nougat and caramel,chocolates/mars/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars
-100072,Nestlé Caramac 30g,Caramel flavoured white chocolate bar,/chocolates/generalchocolate/image2.png,FALSE, TRUE, TRUE, TRUE, FALSE, FALSE,22nd September 2025,Nestlé
-100073,KitKat 2 Finger 21g,Two-finger KitKat bar,chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé
-100074,KitKat 2 Finger 9 Pack 189g,Multipack of two-finger KitKat bars,/chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé
-100075,Nestlé After Eight Mint Chocolate Thins 300g,Dark chocolate thins with mint fondant,/chocolates/generalchocolate/image5.png,FALSE, TRUE, TRUE, TRUE, TRUE, FALSE,22nd September 2025,Nestlé
-100076,Nestlé Aero Bliss Mixed Selection 150g,Assorted box of bubbly chocolate pralines,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé
+Id,ItemName,Description,Image,Vegan,Vegetarian,Halal,NutFree,GlutenFree,LactoseFree,LastUpdated,Brand,Calories
+100000,Cadbury Dairy Milk 45g,Classic creamy milk chocolate bar,chocolates/cadbury/cadbury1.jpg,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,240
+100001,Cadbury Fudge 22g,Soft caramel fudge covered in Cadbury milk chocolate,chocolates/cadbury/fudge.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Cadbury,98
+100002,Cadbury Crunchie 40g,Honeycomb toffee coated in milk chocolate,other/honeycomb.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Cadbury,186
+100003,Cadbury Wispa 36g,Light bubbly chocolate bar,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,22nd September 2025,Cadbury,195
+100004,Cadbury Double Decker 54g,Layer of nougatine and crispy cereal covered in milk chocolate,chocolates/cadbury/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,250
+100005,Cadbury Boost 48g,Chewy caramel and biscuit energy bar covered in chocolate,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,250
+100006,Cadbury Twirl 43g,Two fingers of flaky chocolate covered in milk chocolate,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Cadbury,230
+100007,Cadbury Picnic 48g,Chocolate bar with peanuts caramel wafer and raisins,chocolates/cadbury/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,245
+100008,Cadbury Caramel 45g,Milk chocolate bar filled with caramel,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,215
+100009,Cadbury Flake 32g,Delicate and crumbly milk chocolate bar,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Cadbury,163
+100010,Cadbury Dairy Milk Buttons 95g,Sharing bag of milk chocolate buttons,chocolates/buttons.jpg,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,513
+100011,Cadbury Wispa Gold 48g,Chocolate bar with caramel layer,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,22nd September 2025,Cadbury,260
+100012,Cadbury Twirl Bites 109g,Sharing bag of mini Twirl pieces,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Cadbury,575
+100013,Cadbury Fudge Minis 120g,Sharing bag of mini Fudge bars,chocolates/cadbury/fudge1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Cadbury,494
+100014,Cadbury Crunchie Rocks 110g,Clusters of honeycomb pieces in chocolate,other/honeycomb.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Cadbury,590
+100015,Cadbury Dairy Milk 110g,Tablet bar of classic milk chocolate,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,587
+100016,Cadbury Dairy Milk 200g,Large tablet bar of milk chocolate,chocolates/cadbury/cadbury1.jpg,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,1068
+100017,Cadbury Dairy Milk Orange 95g,Chocolate bar infused with orange flavour,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,510
+100018,Cadbury Dairy Milk Whole Nut 120g,Chocolate with whole hazelnuts,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,672
+100019,Cadbury Dairy Milk Fruit & Nut 110g,Chocolate with raisins and nuts,chocolates/cadbury/cadbury1.jpg,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,578
+100020,Cadbury Dairy Milk Caramel Nibbles 95g,Chocolate with caramel filling,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,488
+100021,Cadbury Heroes 185g,Assorted mini chocolate bars,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,904
+100022,Cadbury Roses 290g,Assorted selection of chocolates,chocolates/cadbury/image2.png,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,22nd September 2025,Cadbury,1488
+100023,Nestlé KitKat 4 Finger 41.5g,Wafer fingers covered in milk chocolate,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,209
+100024,Nestlé KitKat Chunky 40g,Thick wafer finger covered in chocolate,/chocolates/generalchocolate/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,208
+100025,Nestlé KitKat Chunky Peanut Butter 42g,Chunky KitKat with peanut butter filling,/chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,225
+100026,Nestlé KitKat White 41.5g,Classic 4 Finger KitKat in white chocolate,/chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,218
+100027,Nestlé Aero Milk 36g,Bubbly milk chocolate bar,/chocolates/generalchocolate/image5.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,191
+100028,Nestlé Aero Mint 36g,Bubbly milk chocolate bar with mint flavour,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,191
+100029,Nestlé Aero Bubbles Mint 92g,Sharing bag of mint Aero bubble pieces,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,484
+100030,Nestlé Smarties 38g,Colourful sugar-coated chocolate sweets,/chocolates/generalchocolate/image2.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,198
+100031,Nestlé Smarties 152g,Sharing tube of colourful sugar-coated sweets,/chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,792
+100032,Nestlé Milkybar 25g,White chocolate bar,/chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,137
+100033,Nestlé Milkybar Buttons 85g,Sharing bag of white chocolate,chocolates/buttons.jpg,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,479
+100034,Nestlé Lion 42g,Wafer caramel and cereal bar covered in chocolate,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,223
+100035,Nestlé Toffee Crisp 38g,Bar with crispy cereal and toffee covered in chocolate,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,189
+100036,Nestlé Yorkie 46g,Chunky milk chocolate bar,/chocolates/generalchocolate/image2.png,FALSE,TRUE,TRUE,FASTLE,FALSE,FALSE,22nd September 2025,Nestlé,249
+100037,Nestlé Rolo 41g,Milk chocolate cups filled with soft toffee,/chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,192
+100038,Mars Bar 51g,Milk chocolate bar with nougat and caramel,chocolates/mars/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,229
+100039,Snickers 48g,Chocolate bar with peanuts nougat and caramel,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,245
+100040,Galaxy Smooth Milk 42g,Smooth and creamy milk chocolate bar,chocolates/galaxy/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Galaxy,229
+100041,Galaxy Caramel 48g,Milk chocolate with smooth caramel centre,chocolates/galaxy/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Galaxy,233
+100042,Maltesers 37g,Light honeycomb malt spheres covered in chocolate,mars.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars,186
+100043,Maltesers 175g,Sharing pouch of malt chocolate spheres,mars.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars,875
+100044,Mars Duo 78g,Two full-size Mars bars in one pack,chocolates/mars/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,371
+100045,Snickers Duo 83g,Two full-size Snickers bars in one pack,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,423
+100046,Galaxy Minstrels 118g,Sharing bag of milk chocolate buttons with crisp shells,chocolates/buttons.jpg,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Galaxy,576
+100047,Galaxy Ripple 33g,Flaky milk chocolate fingers covered in chocolate,chocolates/galaxy/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Galaxy,175
+100048,Mars Bounty 57g,Coconut filled bar covered in milk chocolate,mars.png,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,22nd September 2025,Mars,279
+100049,Mars Celebrations 240g,Assorted mini chocolates,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,1200
+100050,Galaxy Counters 112g,Sharing bag of button-shaped chocolates,chocolates/galaxy/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Galaxy,584
+100051,Maltesers Teasers Bar 35g,Bar form of Maltesers with honeycomb pieces,other/honeycomb.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars,186
+100052,Milky Way 21.5g,Light whipped nougat covered in milk chocolate,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,97
+100053,KitKat Chunky Duo 74g,Two KitKat Chunky bars in one pack,kitkatchunky.jpg,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,397
+100054,KitKat 4 Finger 9 Pack 374g,Multipack of KitKat 4 Finger bars,kitkat.jpg,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,1800
+100055,Snickers 4 Pack 192g,Multipack of Snickers bars,mars.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,960
+100056,Mars 4 Pack 200g,Multipack of Mars bars,chocolates/mars/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,952
+100057,Bounty 3 Pack 171g,Multipack of coconut chocolate bars,mars.png,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,22nd September 2025,Mars,837
+100058,Galaxy Smooth Milk 110g,Tablet bar of smooth milk chocolate,chocolates/galaxy/image3.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Galaxy,595
+100059,Galaxy Smooth Milk 200g,Large tablet bar of smooth milk chocolate,chocolates/galaxy/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Galaxy,1080
+100060,Galaxy Caramel 135g,Tablet bar with caramel filling,chocolates/galaxy/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Galaxy,0
+100061,Mars Revels 101g,Sharing bag with assorted chocolate centres,chocolates/mars/image1.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars,0
+100062,Mars Milky Way Magic Stars 33g,Mini star-shaped chocolates,chocolates/mars/image2.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars,0
+100063,Nestlé Aero Bubbles 102g,Sharing bag of milk chocolate bubble pieces,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,0
+100064,Nestlé KitKat Dark 41.5g,KitKat covered in dark chocolate,chocolates/generalchocolate/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
+100065,Nestlé Yorkie Raisin & Biscuit 46g,Chunky Yorkie bar with raisins and biscuit pieces,chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,0
+100066,Nestlé Aero Orange 36g,Bubbly milk chocolate bar with orange flavour,chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,0
+100067,Cadbury Starbar 49g,Peanut and caramel bar covered in chocolate,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,0
+100068,Nestlé Breakaway 32g,Chocolate covered biscuit bar,/chocolates/generalchocolate/image5.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
+100069,Nestlé Blue Riband 36g,Chocolate wafer biscuit bar,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
+100070,Nestlé Aero Peppermint Bubbles 92g,Sharing bag of peppermint Aero bubble pieces,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
+100071,Mars Topic 47g,Chocolate bar with hazelnuts nougat and caramel,chocolates/mars/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,0
+100072,Nestlé Caramac 30g,Caramel flavoured white chocolate bar,/chocolates/generalchocolate/image2.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,0
+100073,KitKat 2 Finger 21g,Two-finger KitKat bar,chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
+100074,KitKat 2 Finger 9 Pack 189g,Multipack of two-finger KitKat bars,/chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
+100075,Nestlé After Eight Mint Chocolate Thins 300g,Dark chocolate thins with mint fondant,/chocolates/generalchocolate/image5.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,0
+100076,Nestlé Aero Bliss Mixed Selection 150g,Assorted box of bubbly chocolate pralines,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
