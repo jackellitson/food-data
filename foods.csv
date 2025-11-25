@@ -59,20 +59,20 @@ Id,ItemName,Description,Image,Vegan,Vegetarian,Halal,NutFree,GlutenFree,LactoseF
 100057,Bounty 3 Pack 171g,Multipack of coconut chocolate bars,mars.png,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,22nd September 2025,Mars,837
 100058,Galaxy Smooth Milk 110g,Tablet bar of smooth milk chocolate,chocolates/galaxy/image3.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Galaxy,595
 100059,Galaxy Smooth Milk 200g,Large tablet bar of smooth milk chocolate,chocolates/galaxy/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Galaxy,1080
-100060,Galaxy Caramel 135g,Tablet bar with caramel filling,chocolates/galaxy/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Galaxy,0
-100061,Mars Revels 101g,Sharing bag with assorted chocolate centres,chocolates/mars/image1.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars,0
-100062,Mars Milky Way Magic Stars 33g,Mini star-shaped chocolates,chocolates/mars/image2.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars,0
-100063,Nestlé Aero Bubbles 102g,Sharing bag of milk chocolate bubble pieces,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,0
-100064,Nestlé KitKat Dark 41.5g,KitKat covered in dark chocolate,chocolates/generalchocolate/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
-100065,Nestlé Yorkie Raisin & Biscuit 46g,Chunky Yorkie bar with raisins and biscuit pieces,chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,0
-100066,Nestlé Aero Orange 36g,Bubbly milk chocolate bar with orange flavour,chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,0
-100067,Cadbury Starbar 49g,Peanut and caramel bar covered in chocolate,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,0
-100068,Nestlé Breakaway 32g,Chocolate covered biscuit bar,/chocolates/generalchocolate/image5.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
-100069,Nestlé Blue Riband 36g,Chocolate wafer biscuit bar,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
-100070,Nestlé Aero Peppermint Bubbles 92g,Sharing bag of peppermint Aero bubble pieces,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
-100071,Mars Topic 47g,Chocolate bar with hazelnuts nougat and caramel,chocolates/mars/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,0
-100072,Nestlé Caramac 30g,Caramel flavoured white chocolate bar,/chocolates/generalchocolate/image2.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,0
-100073,KitKat 2 Finger 21g,Two-finger KitKat bar,chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
-100074,KitKat 2 Finger 9 Pack 189g,Multipack of two-finger KitKat bars,/chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
-100075,Nestlé After Eight Mint Chocolate Thins 300g,Dark chocolate thins with mint fondant,/chocolates/generalchocolate/image5.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,0
-100076,Nestlé Aero Bliss Mixed Selection 150g,Assorted box of bubbly chocolate pralines,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,0
+100060,Galaxy Caramel 135g,Tablet bar with caramel filling,chocolates/galaxy/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Galaxy,672 
+100061,Mars Revels 101g,Sharing bag with assorted chocolate centres,chocolates/mars/image1.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars,487 
+100062,Mars Milky Way Magic Stars 33g,Mini star-shaped chocolates,chocolates/mars/image2.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Mars,183 
+100063,Nestlé Aero Bubbles 102g,Sharing bag of milk chocolate bubble pieces,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,537 
+100064,Nestlé KitKat Dark 41.5g,KitKat covered in dark chocolate,chocolates/generalchocolate/image2.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,208 
+100065,Nestlé Yorkie Raisin & Biscuit 46g,Chunky Yorkie bar with raisins and biscuit pieces,chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,172
+100066,Nestlé Aero Orange 36g,Bubbly milk chocolate bar with orange flavour,chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,81
+100067,Cadbury Starbar 49g,Peanut and caramel bar covered in chocolate,chocolates/cadbury/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Cadbury,249 
+100068,Nestlé Breakaway 32g,Chocolate covered biscuit bar,/chocolates/generalchocolate/image5.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,99
+100069,Nestlé Blue Riband 36g,Chocolate wafer biscuit bar,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,99
+100070,Nestlé Aero Peppermint Bubbles 92g,Sharing bag of peppermint Aero bubble pieces,/chocolates/generalchocolate/image1.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,129
+100071,Mars Topic 47g,Chocolate bar with hazelnuts nougat and caramel,chocolates/mars/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Mars,229
+100072,Nestlé Caramac 30g,Caramel flavoured white chocolate bar,/chocolates/generalchocolate/image2.png,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,22nd September 2025,Nestlé,171
+100073,KitKat 2 Finger 21g,Two-finger KitKat bar,chocolates/generalchocolate/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,104 
+100074,KitKat 2 Finger 9 Pack 189g,Multipack of two-finger KitKat bars,/chocolates/generalchocolate/image4.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,902
+100075,Nestlé After Eight Mint Chocolate Thins 300g,Dark chocolate thins with mint fondant,/chocolates/generalchocolate/image5.png,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,22nd September 2025,Nestlé,112
+100076,Nestlé Aero Bliss Mixed Selection 150g,Assorted box of bubbly chocolate pralines,/chocolates/generalchocolate/image6.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,22nd September 2025,Nestlé,177
