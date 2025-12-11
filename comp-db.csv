@@ -14,4 +14,5 @@ Id,ItemName,Description,Image,Vegan,Vegetarian,Halal,NutFree,GlutenFree,LactoseF
 100012,Cadbury Crunchie 40g, Milk chocolate coated honeycomb,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,27th November 2025,Cadbury,186,5000201468611
 100013,Cadbury Wispa Gold 48g, Delicious Wispa Gold milk chocolate bar,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,27th November 2025,Cadbury,244,7622210448101
 100014,Cadbury Wispa 36g, Delicious Wispa milk chocolate bar,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,27th November 2025,Cadbury,196,7622210470126
-100015,Cadbury Dairy Milk Caramel 45g,Millk chocolate bar filled with caramel,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,27th November 2025,Cadbury,218,7622300743727
+100015,Cadbury Dairy Milk Caramel 45g,Milk chocolate bar filled with caramel,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,27th November 2025,Cadbury,218,7622300743727
+100016,Cadbury Fudge 22g,Milk chocolate coated fudge bar,chocolates/cadbury/image3.png,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,11th December 2025,Cadbury,98,57030609
